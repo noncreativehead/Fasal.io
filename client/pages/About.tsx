@@ -8,33 +8,33 @@ export default function About() {
       id: 1,
       title: 'Our Mission',
       description:
-        'CropSavvy is dedicated to empowering farmers worldwide with AI-powered crop disease detection technology. We believe that early detection and intervention can significantly improve crop yields and food security globally.',
+        'Fasal.io is dedicated to empowering farmers worldwide with AI-powered crop disease detection technology. We believe that early detection and intervention can significantly improve crop yields and food security globally.',
       icon: Target,
-      image: 'https://images.unsplash.com/photo-1574943320219-553eb213f72d?w=600&h=600&fit=crop',
+      image: 'https://media.istockphoto.com/id/2156174738/photo/corn-grains-in-the-hands-of-a-successful-farmer-in-a-background-green-corn-field.jpg?s=612x612&w=0&k=20&c=oLO2laZtKZmDqnaHmv180xq7rPnH6svwmRyRcWK0odk=',
     },
     {
       id: 2,
       title: 'Why Crop Disease Detection Matters',
       description:
-        'Crop diseases are responsible for 20-40% of global crop losses annually. Early detection can prevent devastating losses. CropSavvy uses advanced computer vision and machine learning to identify diseases before they spread, saving farmers time, money, and crops.',
+        'Crop diseases are responsible for 20-40% of global crop losses annually. Early detection can prevent devastating losses. Fasal.io uses advanced computer vision and machine learning to identify diseases before they spread, saving farmers time, money, and crops.',
       icon: Leaf,
-      image: 'https://images.unsplash.com/photo-1500382017468-7049fdf41224?w=600&h=600&fit=crop',
+      image: 'https://research.csiro.au/robotics/wp-content/uploads/sites/592/2019/02/image2hyperspectral.jpg',
     },
     {
       id: 3,
-      title: 'How CropSavvy Helps Farmers',
+      title: 'How Fasal.io Helps Farmers',
       description:
-        'Simply take a photo of your crop, upload it to CropSavvy, and receive instant AI-powered analysis. Get detailed insights about disease identification, severity assessment, and recommended treatments. All within seconds, right from your smartphone.',
+        'Simply take a photo of your crop, upload it to Fasal.io, and receive instant AI-powered analysis. Get detailed insights about disease identification, severity assessment, and recommended treatments. All within seconds, right from your smartphone.',
       icon: Zap,
-      image: 'https://images.unsplash.com/photo-1495567720989-cebdbdd97913?w=600&h=600&fit=crop',
+      image: 'https://ensia.com/wp-content/uploads/2018/01/Feature_DeepLearning_main2.jpg',
     },
     {
       id: 4,
       title: 'Our Community',
       description:
-        'CropSavvy is built by and for farmers. We work closely with agricultural experts, researchers, and farming communities to ensure our technology addresses real-world challenges and delivers practical solutions.',
+        'Fasal.io is built by and for farmers. We work closely with agricultural experts, researchers, and farming communities to ensure our technology addresses real-world challenges and delivers practical solutions.',
       icon: Users,
-      image: 'https://images.unsplash.com/photo-1574944611937-0df059b5ef3e?w=600&h=600&fit=crop',
+      image: '\community.jpg',
     },
   ];
 
@@ -60,7 +60,7 @@ export default function About() {
           className="relative z-10 text-center max-w-3xl"
         >
           <h1 className="text-5xl sm:text-6xl lg:text-7xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-green-300 via-green-400 to-green-500 mb-6">
-            About CropSavvy
+            About Fasal.io
           </h1>
           <p className="text-xl text-green-100/80">
             Revolutionizing Agriculture with AI-Powered Crop Disease Detection
@@ -129,7 +129,7 @@ export default function About() {
         >
           <h2 className="text-4xl font-bold text-white mb-4">Ready to Protect Your Crops?</h2>
           <p className="text-green-100/70 text-lg mb-8">
-            Start using CropSavvy today and detect crop diseases before they spread.
+            Start using Fasal.io today and detect crop diseases before they spread.
           </p>
           <a
             href="/detect"

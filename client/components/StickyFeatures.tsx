@@ -17,7 +17,7 @@ const features: Feature[] = [
     description:
       'Instantly analyze crop health with advanced AI algorithms that identify diseases, nutrient deficiencies, and growth patterns in real-time.',
     icon: <Brain className="w-12 h-12" />,
-    image: 'https://images.unsplash.com/photo-1500382017468-7049fdf41224?w=600&h=600&fit=crop',
+    image: 'https://backend.aionlinecourse.com/uploads/ai_projects/image/2024/08/crop-disease-detection.webp',
   },
   {
     id: 2,
@@ -25,7 +25,7 @@ const features: Feature[] = [
     description:
       'Capture images from your smartphone, tablet, or computer. Simply take a photo of your crop and upload it instantly.',
     icon: <Upload className="w-12 h-12" />,
-    image: 'https://images.unsplash.com/photo-1574943320219-553eb213f72d?w=600&h=600&fit=crop',
+    image: 'https://blog.agribazaar.com/wp-content/uploads/2024/08/digital-plants.jpg',
   },
   {
     id: 3,
@@ -33,7 +33,7 @@ const features: Feature[] = [
     description:
       'Get accurate disease predictions and treatment recommendations within seconds. No waiting, no delays.',
     icon: <Zap className="w-12 h-12" />,
-    image: 'https://images.unsplash.com/photo-1495567720989-cebdbdd97913?w=600&h=600&fit=crop',
+    image: 'https://d17ocfn2f5o4rl.cloudfront.net/wp-content/uploads/2023/07/BP-AI-in-Agriculture-The-Future-of-Farming_body-im-3.jpg',
   },
   {
     id: 4,
@@ -41,7 +41,7 @@ const features: Feature[] = [
     description:
       'Detect crop diseases before they spread. Early intervention can save your harvest and increase yield significantly.',
     icon: <TrendingUp className="w-12 h-12" />,
-    image: 'https://images.unsplash.com/photo-1574944611937-0df059b5ef3e?w=600&h=600&fit=crop',
+    image: 'https://media.istockphoto.com/id/641940492/photo/rural-women-cutting-silage-for-domestic-cattle.jpg?s=612x612&w=0&k=20&c=MSTEAtpcbIxfiN-BsEMVAGqvMC7IgoaLrZzRsN4Fjyg=',
   },
 ];
 
@@ -83,7 +83,7 @@ export default function StickyFeatures() {
           className="text-center mb-16"
         >
           <h2 className="text-4xl sm:text-5xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-green-300 to-green-500 mb-4">
-            Why Choose CropSavvy?
+            Why Choose Fasal.io?
           </h2>
           <p className="text-green-100/80 text-lg max-w-2xl mx-auto">
             Advanced AI technology designed specifically for farmers to protect and maximize crop yields.

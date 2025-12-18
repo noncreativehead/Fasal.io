@@ -6,13 +6,13 @@ const comicSteps = [
     id: 1,
     img: '/1.png',
     title: 'Step 1: Oh no, Something’s Wrong!',
-    description: 'Farmer is worried: "What happened to my crops?!" Don’t worry CropSavvy is here to help you figure out what is happening!',
+    description: 'Farmer is worried: "What happened to my crops?!" Don’t worry Fasal.io is here to help you figure out what is happening!',
   },
   {
     id: 2,
     img: '/2.png',
     title: 'Step 2: Listen to Your Crops',
-    description: 'Your crops may be feeling sad and sick, but you can help them! Simply open the CropSavvy app, and let technology be your field-side doctor.',
+    description: 'Your crops may be feeling sad and sick, but you can help them! Simply open the Fasal.io app, and let technology be your field-side doctor.',
   },
   {
     id: 3,
@@ -24,7 +24,7 @@ const comicSteps = [
     id: 4,
     img: '/4.png',
     title: 'Step 4: Welcome to the Future!',
-    description: 'Now farmers everywhere can use CropSavvy to detect and treat crop diseases instantly! Try it yourself and watch your field flourish.',
+    description: 'Now farmers everywhere can use Fasal.io to detect and treat crop diseases instantly! Try it yourself and watch your field flourish.',
   },
 ];
 
@@ -41,7 +41,7 @@ export default function Guide() {
           className="relative z-10 text-center max-w-3xl"
         >
           <h1 className="text-5xl sm:text-6xl lg:text-7xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-green-300 via-green-400 to-green-500 mb-6">
-            How To Use CropSavvy
+            How To Use Fasal.io
           </h1>
           <p className="text-xl text-green-100/80">
             Your Guide to cure crop disease easily!
@@ -94,7 +94,7 @@ export default function Guide() {
         >
           <h2 className="text-4xl font-bold text-white mb-4">Protect Your Crops Today!</h2>
           <p className="text-green-100/70 text-lg mb-8">
-            Start using CropSavvyand become the hero of your field.
+            Start using Fasal.ioand become the hero of your field.
           </p>
           <a
             href="/detect"

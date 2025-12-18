@@ -251,12 +251,12 @@ export const NavbarLogo = () => (
     className="relative z-20 mr-4 flex items-center space-x-2 px-2 py-1 text-sm font-normal"
   >
     <img
-      src="./logo.jpeg"
+      src="public\fasal.io.png"
       alt="logo"
       width={30}
       height={30}
     />
-    <span className="font-bold text-green-400 drop-shadow">CropSaavy</span>
+    <span className="font-bold text-green-400 drop-shadow">Fasal.io</span>
   </a>
 );
 

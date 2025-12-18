@@ -51,7 +51,7 @@ export default function HeroSection() {
         <div className="mb-6">
           <h1 className="text-3xl xs:text-5xl sm:text-6xl lg:text-7xl font-black mb-4 leading-tight">
             <span className="inline-block text-transparent bg-clip-text bg-gradient-to-r from-green-300 via-green-400 to-green-500">
-              CropSaavy
+              Fasal.io
             </span>
           </h1>
         </div>
@@ -65,8 +65,8 @@ export default function HeroSection() {
           <p className="text-lg xs:text-xl sm:text-2xl lg:text-3xl text-green-100 font-light leading-relaxed max-w-md sm:max-w-2xl mx-auto font-serif">
             <TypewriterEffect
               words={[
-                { text: 'Your Digital Doctor' },
-                { text: ' for Every Leaf' },
+                { text: 'Faslon ka future' },
+                { text: ', data ke saath' },
               ]}
             />
           </p>

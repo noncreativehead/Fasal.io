@@ -39,7 +39,7 @@ export default function LoadingScreen() {
           className="mt-8 flex justify-center"
         >
           <img
-            src="./logo.jpeg"
+            src="public\fasal.io.png"
             alt="scanning logo"
             className="w-12 h-12 object-contain"
           />
